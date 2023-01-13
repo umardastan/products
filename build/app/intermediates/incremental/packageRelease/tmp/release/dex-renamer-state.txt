@@ -1,0 +1,4 @@
+#Fri Jan 13 09:43:04 ICT 2023
+base.0=D\:\\tes masuk\\alere.id\\list_product\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
